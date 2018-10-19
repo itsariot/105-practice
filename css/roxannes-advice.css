@@ -1,0 +1,63 @@
+@charset "utf-8";
+/****** BASE STYLES *****/
+
+
+body {
+	font-family: 'Arial', sans-serif;
+	width: 100%;
+	margin: 0 auto;
+	padding: 15px;
+	font-size: 16px;
+	text-align:center;
+}
+
+.advice {
+	font-size:18px;
+	font-style:italic;
+	color:#933;
+
+.full-width {
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Crimson Text', serif;
+	font-style: italic;
+	text-align: center;
+	color:#636;
+}
+
+h4 {
+	text-decoration: underline;
+	margin-top: 25px;
+}
+
+.help {
+	padding-top: 15px;
+}
+
+ .starter-links ul {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.starter-links ul li {
+	display: inline-block;
+	padding-right: 45px;
+}
+
+a {
+	color: #0000EE;
+}
+
+a:hover {
+	color: red;
+}
+
+/***** FOOTER STYLES *****/
+
+footer {
+	text-align: center;
+	margin-top: 100px;
+}
+
